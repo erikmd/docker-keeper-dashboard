@@ -16,10 +16,10 @@
 [![pipeline status](https://gitlab.inria.fr/math-comp/math-comp/badges/master/pipeline.svg)](https://gitlab.inria.fr/math-comp/math-comp/commits/master)
 [![dockerfile](https://img.shields.io/badge/mathcomp--dev%20on-github-blue.svg)](https://github.com/math-comp/math-comp "Dockerfile source repository")
 
-[![github-action](https://img.shields.io/badge/GHA%20on-github-blue.svg)](https://github.com/coq-community/docker-coq-action "docker-coq-action repository")
+[![github-action](https://img.shields.io/badge/docker--coq--action%20on-github-blue.svg)](https://github.com/coq-community/docker-coq-action "docker-coq-action repository")
 [![Docker-Coq CI][docker-coq-ci-badge]][docker-coq-ci-link]
 [![Docker-based CI][python-ci-badge]][python-ci-link]
-[![Regression Test][rt-ci-badge]][rt-ci-link]  
+[![Regression Test][rt-ci-badge]][rt-ci-link]
 [![reviewdog][reviewdog-badge]][reviewdog-link]
 
 [reviewdog-badge]: https://github.com/coq-community/docker-coq-action/actions/workflows/reviewdog.yml/badge.svg?branch=master
