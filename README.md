@@ -33,3 +33,6 @@
 
 [rt-ci-badge]: https://github.com/coq-community/docker-coq-action/actions/workflows/gha-rt.yml/badge.svg?branch=master
 [rt-ci-link]:https://github.com/coq-community/docker-coq-action/actions/workflows/gha-rt.yml
+
+[![subtree](https://img.shields.io/badge/docker--keeper%20on-gitlab-blue.svg)](https://gitlab.com/erikmd/docker-keeper "docker-keeper repository")
+[![pipeline status](https://gitlab.com/erikmd/docker-keeper/badges/master/pipeline.svg)](https://gitlab.com/erikmd/docker-keeper/-/pipelines)
