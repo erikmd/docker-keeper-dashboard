@@ -17,10 +17,10 @@
 [![dockerfile](https://img.shields.io/badge/mathcomp--dev%20on-github-blue.svg)](https://github.com/math-comp/math-comp "Dockerfile source repository")
 
 [![github-action](https://img.shields.io/badge/docker--coq--action%20on-github-blue.svg)](https://github.com/coq-community/docker-coq-action "docker-coq-action repository")
-[![reviewdog][reviewdog-badge]][reviewdog-link]
 [![Docker-Coq CI][docker-coq-ci-badge]][docker-coq-ci-link]
 [![Docker-based CI][python-ci-badge]][python-ci-link]
 [![Regression Test][rt-ci-badge]][rt-ci-link]  
+[![reviewdog][reviewdog-badge]][reviewdog-link]
 
 [reviewdog-badge]: https://github.com/coq-community/docker-coq-action/actions/workflows/reviewdog.yml/badge.svg?branch=master
 [reviewdog-link]:https://github.com/coq-community/docker-coq-action/actions/workflows/reviewdog.yml
