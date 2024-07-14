@@ -13,7 +13,7 @@
 [![dockerfile](https://img.shields.io/badge/docker--mathcomp%20on-github-blue.svg)](https://github.com/math-comp/docker-mathcomp "Dockerfile source repository")
 
 [![mathcomp-dev](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/mathcomp/mathcomp-dev "Images on Docker Hub")
-[![pipeline status](https://gitlab.inria.fr/math-comp/math-comp/badges/master/pipeline.svg)](https://gitlab.inria.fr/math-comp/math-comp/commits/master)
+[![pipeline status](https://gitlab.inria.fr/math-comp/math-comp/badges/master/pipeline.svg)](https://gitlab.inria.fr/math-comp/math-comp/-/pipelines)
 [![dockerfile](https://img.shields.io/badge/mathcomp--dev%20on-github-blue.svg)](https://github.com/math-comp/math-comp "Dockerfile source repository")
 
 [![github-action](https://img.shields.io/badge/docker--coq--action%20on-github-blue.svg)](https://github.com/coq-community/docker-coq-action "docker-coq-action repository")
