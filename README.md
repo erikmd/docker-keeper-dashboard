@@ -1,5 +1,7 @@
 # docker-keeper dashboard
 
+[![last upstream push](https://img.shields.io/github/last-commit/debuerreotype/docker-debian-artifacts/dist-amd64?path=bookworm%2Fslim%2FDockerfile&display_timestamp=committer&label=last%20upstream%20push)](https://github.com/debuerreotype/docker-debian-artifacts/blob/dist-amd64/bookworm/slim/Dockerfile)
+
 [![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/coqorg/base#supported-tags "Supported tags on Docker Hub")
 [![pipeline status](https://gitlab.com/coq-community/docker-base/badges/master/pipeline.svg)](https://gitlab.com/coq-community/docker-base/-/pipelines)
 [![dockerfile](https://img.shields.io/badge/docker--base%20on-github-blue.svg)](https://github.com/coq-community/docker-base "Dockerfile source repository")
