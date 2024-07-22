@@ -1,6 +1,7 @@
 # docker-keeper dashboard
 
 [![last upstream push](https://img.shields.io/github/last-commit/debuerreotype/docker-debian-artifacts/dist-amd64?path=bookworm%2Fslim%2FDockerfile&display_timestamp=committer&label=last%20upstream%20push)](https://github.com/debuerreotype/docker-debian-artifacts/blob/dist-amd64/bookworm/slim/Dockerfile)
+[![debian image version](https://img.shields.io/docker/v/_/debian%2Fbookworm-slim?sort=semver&label=debian%20image%20version)](https://hub.docker.com/_/debian/tags?page=&page_size=&ordering=last_updated&name=bookworm-slim)
 
 [![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/coqorg/base#supported-tags "Supported tags on Docker Hub")
 [![pipeline status](https://gitlab.com/coq-community/docker-base/badges/master/pipeline.svg)](https://gitlab.com/coq-community/docker-base/-/pipelines)
