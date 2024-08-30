@@ -3,6 +3,9 @@
 [![last upstream push](https://img.shields.io/github/last-commit/debuerreotype/docker-debian-artifacts/dist-amd64?path=bookworm%2Fslim%2FDockerfile&display_timestamp=committer&label=last%20upstream%20push)](https://github.com/debuerreotype/docker-debian-artifacts/blob/dist-amd64/bookworm/slim/Dockerfile)
 [![debian image version](https://img.shields.io/docker/v/_/debian%2Fbookworm-slim?sort=semver&label=debian%20image%20version)](https://hub.docker.com/_/debian/tags?page=&page_size=&ordering=last_updated&name=bookworm-slim)
 
+[![GitHub Release](https://img.shields.io/github/v/release/ocaml/opam?label=opam%20--version)](https://github.com/ocaml/opam/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/ocaml/dune?label=dune%20--version)](https://github.com/ocaml/dune/releases)
+
 [![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/coqorg/base#supported-tags "Supported tags on Docker Hub")
 [![pipeline status](https://gitlab.com/coq-community/docker-base/badges/master/pipeline.svg)](https://gitlab.com/coq-community/docker-base/-/pipelines)
 [![dockerfile](https://img.shields.io/badge/docker--base%20on-github-blue.svg)](https://github.com/coq-community/docker-base "Dockerfile source repository")
