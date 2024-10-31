@@ -16,6 +16,10 @@
 [![pipeline status](https://gitlab.com/coq-community/docker-coq/badges/master/pipeline.svg)](https://gitlab.com/coq-community/docker-coq/-/pipelines)
 [![dockerfile](https://img.shields.io/badge/docker--coq%20on-github-blue.svg)](https://github.com/coq-community/docker-coq "Dockerfile source repository")
 
+[![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/rocq/rocq-prover#supported-tags "Supported tags on Docker Hub")
+[![pipeline status](https://gitlab.com/coq-community/docker-rocq/badges/master/pipeline.svg)](https://gitlab.com/coq-community/docker-rocq/-/pipelines)
+[![dockerfile](https://img.shields.io/badge/docker--rocq%20on-github-blue.svg)](https://github.com/coq-community/docker-rocq "Dockerfile source repository")
+
 [![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/mathcomp/mathcomp#supported-tags "Supported tags on Docker Hub")
 [![pipeline status](https://gitlab.inria.fr/math-comp/docker-mathcomp/badges/master/pipeline.svg)](https://gitlab.inria.fr/math-comp/docker-mathcomp/-/pipelines)
 [![dockerfile](https://img.shields.io/badge/docker--mathcomp%20on-github-blue.svg)](https://github.com/math-comp/docker-mathcomp "Dockerfile source repository")
