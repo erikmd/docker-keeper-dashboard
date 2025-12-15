@@ -8,11 +8,11 @@
 [![GitHub Release](https://img.shields.io/github/v/release/ocaml/opam?label=opam%20--version)](https://github.com/ocaml/opam/releases)
 [![GitHub Release](https://img.shields.io/github/v/release/ocaml/dune?label=dune%20--version)](https://github.com/ocaml/dune/releases)
 
-[![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/coqorg/base#supported-tags "Supported tags on Docker Hub")
-[![pipeline status](https://gitlab.com/coq-community/docker-base/badges/master/pipeline.svg)](https://gitlab.com/coq-community/docker-base/-/pipelines)
-[![dockerfile](https://img.shields.io/badge/docker--base%20on-github-blue.svg)](https://github.com/coq-community/docker-base "Dockerfile source repository")
-[![GitHub Issues](https://img.shields.io/github/issues/coq-community/docker-base)](https://github.com/coq-community/docker-base/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/coq-community/docker-base)](https://github.com/coq-community/docker-base/pulls)
+[![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/rocq/base#supported-tags "Supported tags on Docker Hub")
+[![pipeline status](https://gitlab.com/rocq-community/docker-base/badges/master/pipeline.svg)](https://gitlab.com/rocq-community/docker-base/-/pipelines)
+[![dockerfile](https://img.shields.io/badge/docker--base%20on-github-blue.svg)](https://github.com/rocq-community/docker-base "Dockerfile source repository")
+[![GitHub Issues](https://img.shields.io/github/issues/rocq-community/docker-base)](https://github.com/rocq-community/docker-base/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/rocq-community/docker-base)](https://github.com/rocq-community/docker-base/pulls)
 
 [![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/coqorg/coq#supported-tags "Supported tags on Docker Hub")
 [![pipeline status](https://gitlab.com/coq-community/docker-coq/badges/master/pipeline.svg)](https://gitlab.com/coq-community/docker-coq/-/pipelines)
@@ -21,10 +21,10 @@
 [![GitHub PRs](https://img.shields.io/github/issues-pr/coq-community/docker-coq)](https://github.com/coq-community/docker-coq/pulls)
 
 [![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/rocq/rocq-prover#supported-tags "Supported tags on Docker Hub")
-[![pipeline status](https://gitlab.com/coq-community/docker-rocq/badges/master/pipeline.svg)](https://gitlab.com/coq-community/docker-rocq/-/pipelines)
-[![dockerfile](https://img.shields.io/badge/docker--rocq%20on-github-blue.svg)](https://github.com/coq-community/docker-rocq "Dockerfile source repository")
-[![GitHub Issues](https://img.shields.io/github/issues/coq-community/docker-rocq)](https://github.com/coq-community/docker-rocq/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/coq-community/docker-rocq)](https://github.com/coq-community/docker-rocq/pulls)
+[![pipeline status](https://gitlab.com/rocq-community/docker-rocq/badges/master/pipeline.svg)](https://gitlab.com/rocq-community/docker-rocq/-/pipelines)
+[![dockerfile](https://img.shields.io/badge/docker--rocq%20on-github-blue.svg)](https://github.com/rocq-community/docker-rocq "Dockerfile source repository")
+[![GitHub Issues](https://img.shields.io/github/issues/rocq-community/docker-rocq)](https://github.com/rocq-community/docker-rocq/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/rocq-community/docker-rocq)](https://github.com/rocq-community/docker-rocq/pulls)
 
 [![tags](https://img.shields.io/badge/tags%20on-docker%20hub-blue.svg)](https://hub.docker.com/r/mathcomp/mathcomp#supported-tags "Supported tags on Docker Hub")
 [![pipeline status](https://gitlab.inria.fr/math-comp/docker-mathcomp/badges/master/pipeline.svg)](https://gitlab.inria.fr/math-comp/docker-mathcomp/-/pipelines)
